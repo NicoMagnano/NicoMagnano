@@ -35,7 +35,7 @@
 
 
 
-## 🛠️ Technologies I know
+## 🛠️ My Stack
 
 <p align="center">
   &emsp;
