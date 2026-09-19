@@ -35,7 +35,7 @@
 
 
 
-## 🛠️ Tecnologías que conozco
+## 🛠️ Technologies I know
 
 <p align="center">
   &emsp;
