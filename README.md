@@ -35,7 +35,7 @@
 
 
 
-## 🛠️ My Skills
+## 🛠️ Tecnologías que conozco
 
 <p align="center">
   &emsp;
