@@ -21,7 +21,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I mainly work with `Java`, and I'm also learning `Python` and `Spring Boot`.
 - :books: I'm currently working on my thesis project, **NexAR**, a sports club management system built with `Next.js`.
-- :muscle: I also built **Turnas**, a gym booking app, using `Nest.js`.
+- :muscle: I also built [**Turnass**](https://turnass.vercel.app), a gym booking app, using `Next.js` and `Supabase`.
 - :student: I'm currently finishing my coursework, with a few final exams left to take next year.
 - :nerd_face: Always `learning new things`.
 <br>
@@ -31,6 +31,7 @@
 <p align="center">
 	<a href="mailto:nicomagnano12@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/NicoMagnano"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://turnass.vercel.app"><img src="https://img.shields.io/badge/Turnass-000000.svg?style=plastic&logo=vercel&logoColor=white" alt="Turnass"/></a>
 </p>
 
 
