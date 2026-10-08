@@ -21,7 +21,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I mainly work with `Java`, and I'm also learning `Python` and `Spring Boot`.
 - :books: I'm currently working on my thesis project, **NexAR**, a sports club management system built with `Next.js`.
-- :muscle: I also built [**Turnass**](https://turnass.vercel.app), a workout tracking app, built with `Next.js` and `Supabase`.
+- :muscle: I also built [**Turnass**](https://turnass.vercel.app), a workout tracking app made with `Next.js` and `Supabase`.
 - :student: I'm currently finishing my coursework, with a few final exams left to take next year.
 - :nerd_face: Always `learning new things`.
 <br>
